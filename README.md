@@ -26,7 +26,7 @@
 
 ## 🗂️ Current Repositry 
 - [Java Programs](https://github.com/sadiapeerzada/java-programs) – Weekly lab assignments focused on strengthening object-oriented programming concepts and problem-solving in Java.
-- [C-Programs](https://github.com/sadiapeerzada/C-programs) – Weekly lab assignments focused on Data Structures and Algorithms and logical problem-solving in C (e.g-Arrays,Queue,Stack,etc.).
+- [C-Programs](https://github.com/sadiapeerzada/C-programs) – Weekly lab assignments focused on Data Structures and Algorithms and logical problem-solving in C (e.g., Arrays, Queue, Stack, etc.).
 
 ---
 
@@ -50,10 +50,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sadiapeerzada&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sadiapeerzada&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
