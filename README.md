@@ -1,6 +1,5 @@
 <img src="Jarvis.gif" alt="Jarvis GIF" width="100%" height="550px" />
 
----
 # Hey, This is Sadia Peerzada👋
   **About-Me**
 - Second-year B.Sc. Computer Science undergraduate who aspires to become a full-stack developer 
