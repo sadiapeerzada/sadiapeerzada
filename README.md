@@ -1,4 +1,4 @@
-<img src="github_gamers.gif" alt="GitHub Gamers GIF" width="100%" height="550px" />
+<img src="Jarvis.gif" alt="Jarvis GIF" width="100%" height="550px" />
 
 ---
 # Hey, This is Sadia Peerzada👋
