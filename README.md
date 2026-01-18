@@ -48,6 +48,7 @@ A snapshot of my work, projects, and experiments — from academic builds to per
 - **GitHub:** [sadia peerzada](https://github.com/sadiapeerzada)
 - **LinkedIn:** [sadiapeerzada](https://www.linkedin.com/in/sadia-peerzada)
 - **Email:** sadiapeerzada2006@gmail.com
+- **Portfolio Website:** [My Portfolio](https://east-relink-33604067.figma.site/)
 
 ---
 
@@ -63,8 +64,6 @@ A snapshot of my work, projects, and experiments — from academic builds to per
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ## ▶ Terminal Preview
 
