@@ -65,7 +65,7 @@ A snapshot of my work, projects, and experiments ranging from academic builds to
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## ▶ Terminal Preview
+# ▶ Terminal Preview
 
 <img src="screencap.gif" alt="screencap.gif" width="100%" height="550px" />
 
