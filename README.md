@@ -11,7 +11,7 @@
 # 🌟 Personal Portfolio
 A snapshot of my work, projects, and experiments — from academic builds to personal creations.
 
- **Portfolio Website 🔗:** [My Portfolio](https://east-relink-33604067.figma.site/)
+ **🔗 Portfolio Website:** [My Portfolio](https://east-relink-33604067.figma.site/)
 
 **What you’ll find there:**
 - Featured projects with live demos and source code  
