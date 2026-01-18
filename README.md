@@ -7,6 +7,19 @@
 - Second-year B.Sc. Computer Science undergraduate who aspires to become a full-stack developer 
 - Passionate about coding, problem-solving, exploring new technologies and building software solutions
 - Focused on mastering computing fundamentals for academic research and internship opportunities
+
+# 🌟 Personal Portfolio
+
+🚀 A snapshot of my work, projects, and experiments — from academic builds to personal creations.
+
+🔗 **Portfolio Website :** [View My Portfolio](https://east-relink-33604067.figma.site/)
+
+**What you’ll find there:**
+- Featured projects with live demos and source code  
+- Tech stack breakdowns and my learning journey  
+- Certifications, achievements, and open-source contributions  
+- Contact links and easy access to my resume  
+
   
 #  Check out my awesome Holopin badges! 🔥
 
