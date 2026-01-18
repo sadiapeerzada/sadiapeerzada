@@ -9,7 +9,7 @@
 - Focused on mastering computing fundamentals for academic research and internship opportunities
 
 # 🌟 Personal Portfolio
-A snapshot of my work, projects, and experiments — from academic builds to personal creations.
+A snapshot of my work, projects, and experiments ranging from academic builds to personal creations.
 
  **🔗 Portfolio Website:** [My Portfolio](https://east-relink-33604067.figma.site/)
 
