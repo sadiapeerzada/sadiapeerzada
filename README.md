@@ -1,19 +1,25 @@
 <img src="Jarvis.gif" alt="Jarvis GIF" width="100%" height="550px" />
 
+ ---
+
+
 # Hey, This is Sadia Peerzada👋
   **About-Me**
 - Second-year B.Sc. Computer Science undergraduate who aspires to become a full-stack developer 
 - Passionate about coding, problem-solving, exploring new technologies and building software solutions
 - Focused on mastering computing fundamentals for academic research and internship opportunities
-##  Check out my awesome Holopin badges! 🔥
+
+ ---
+  
+#  Check out my awesome Holopin badges! 🔥
 
 [![An image of @sadiapeerzada's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadiapeerzada)](https://holopin.io/@sadiapeerzada)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sadia.peerzada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-peerzada/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadiapeerzada2006@gmail.com) 
 
 
-## 🔧 Skills & Learning
+# 🔧 Skills & Learning
 - **Languages & Technologies:** C, Java (OOP), HTML (advanced), CSS (basic), JavaScript (basic), DBMS
 - **Programming Concepts:** Object-Oriented Programming, Data Structures & Algorithms (In C language), Digital System Designing, Computer Architecture 
 - **Other Skills:** Logical reasoning, analytical thinking, and solving coding challenges to strengthen programming fundamentals
@@ -23,13 +29,13 @@
 
 ---
 
-## 🗂️ Current Repositry 
+# 🗂️ Current Repositry 
 - [Java Programs](https://github.com/sadiapeerzada/java-programs) – Weekly lab assignments focused on strengthening object-oriented programming concepts and problem-solving in Java.
 - [C-Programs](https://github.com/sadiapeerzada/C-programs) – Weekly lab assignments focused on Data Structures and Algorithms and logical problem-solving in C (e.g., Arrays, Queue, Stack, etc.).
 
 ---
 
-## 📬 How to Reach Me
+# 📬 How to Reach Me
 - **GitHub:** [sadia peerzada](https://github.com/sadiapeerzada)
 - **LinkedIn:** [sadiapeerzada](https://www.linkedin.com/in/sadia-peerzada)
 - **Email:** sadiapeerzada2006@gmail.com
@@ -46,13 +52,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sadiapeerzada&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sadiapeerzada&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sadiapeerzada&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
