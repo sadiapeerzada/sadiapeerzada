@@ -38,7 +38,7 @@ A snapshot of my work, projects, and experiments — from academic builds to per
 
 ---
 
-# 🗂️ Current Repositry 
+# 🗂️ Current Repositries
 - [Java Programs](https://github.com/sadiapeerzada/java-programs) – Weekly lab assignments focused on strengthening object-oriented programming concepts and problem-solving in Java.
 - [C-Programs](https://github.com/sadiapeerzada/C-programs) – Weekly lab assignments focused on Data Structures and Algorithms and logical problem-solving in C (e.g., Arrays, Queue, Stack, etc.).
 
