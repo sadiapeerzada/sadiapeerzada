@@ -11,7 +11,7 @@
 # 🌟 Personal Portfolio
 A snapshot of my work, projects, and experiments — from academic builds to personal creations.
 
-🔗 **Portfolio Website :** [My Portfolio](https://east-relink-33604067.figma.site/)
+ **Portfolio Website 🔗:** [My Portfolio](https://east-relink-33604067.figma.site/)
 
 **What you’ll find there:**
 - Featured projects with live demos and source code  
@@ -20,7 +20,7 @@ A snapshot of my work, projects, and experiments — from academic builds to per
 - Contact links and easy access to my resume  
 
   
-#  Check out my awesome Holopin badges! 🔥
+# Check out my awesome Holopin badges! 🔥
 
 [![An image of @sadiapeerzada's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sadiapeerzada)](https://holopin.io/@sadiapeerzada)
 
@@ -61,17 +61,10 @@ A snapshot of my work, projects, and experiments — from academic builds to per
 ![](https://nirzak-streak-stats.vercel.app/?user=sadiapeerzada&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sadiapeerzada&theme=aura&no-frame=false&no-bg=false&margin-w=4)
-
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sadiapeerzada&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=sadiapeerzada&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
 ## ▶ Terminal Preview
 
