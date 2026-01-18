@@ -73,6 +73,7 @@ A snapshot of my work, projects, and experiments — from academic builds to per
 
 [![](https://visitcount.itsvg.in/api?id=sadiapeerzada&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## ▶ Terminal Preview
 
 <img src="screencap.gif" alt="screencap.gif" width="100%" height="550px" />
 
