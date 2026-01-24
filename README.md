@@ -3,15 +3,14 @@
  ---
 
 # Hey, This is Sadia Peerzada👋
-  **About-Me**
-- Second-year B.Sc. Computer Science undergraduate who aspires to become a full-stack developer 
-- Passionate about coding, problem-solving, exploring new technologies and building software solutions
-- Focused on mastering computing fundamentals for academic research and internship opportunities
 <!-- 🌑 Profile Views Badge -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="sadiapeerzada" />
 </p>
-
+  **About-Me**
+- Second-year B.Sc. Computer Science undergraduate who aspires to become a full-stack developer 
+- Passionate about coding, problem-solving, exploring new technologies and building software solutions
+- Focused on mastering computing fundamentals for academic research and internship opportunities
 
 ---
 
