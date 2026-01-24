@@ -3,7 +3,7 @@
  ---
 
 # Hey, This is Sadia Peerzada👋
-<!-- 🌑 Profile Views Badge -->
+<!-- 🔥 Profile Views Badge -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="sadiapeerzada" />
 </p>
@@ -31,8 +31,6 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="MS SQL Server"/>
 </p>
 
----
-
 ## 🌐 social_links.init()
 
 <p align="left">
@@ -47,7 +45,9 @@
   </a>
 </p>
 
-# 🌟 Personal Portfolio
+---
+
+# 👾 Personal Portfolio
 A snapshot of my work, projects, and experiments ranging from academic builds to personal creations.
 
  **🔗 Portfolio Website:** [My Portfolio](https://east-relink-33604067.figma.site/)
