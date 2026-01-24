@@ -33,7 +33,7 @@
 
 ---
 
-## 🌐 connect_with_me;
+## 🌐 social_links.init()
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sadia-peerzada" target="_blank">
