@@ -5,7 +5,7 @@
 # Hey, This is Sadia Peerzada👋
 <!-- 🔥 Profile Views Badge -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=sadiapeerzada" />
+  <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="sadiapeerzada" />
 </p>
 
   **About-Me**
