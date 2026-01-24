@@ -8,9 +8,10 @@
 - Passionate about coding, problem-solving, exploring new technologies and building software solutions
 - Focused on mastering computing fundamentals for academic research and internship opportunities
 <!-- 🌑 Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=PROFILE%20VIEWS&color=7c3aed&style=flat-square" alt="sadiapeerzada" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="sadiapeerzada" />
 </p>
+
 
 ---
 
