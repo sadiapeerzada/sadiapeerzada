@@ -31,7 +31,7 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="MS SQL Server"/>
 </p>
 
-## 🌐 social_links.init()
+## 🌐 social_links.init();
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sadia-peerzada" target="_blank">
