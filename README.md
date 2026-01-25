@@ -1,7 +1,6 @@
 <img src="Jarvis.gif" alt="Jarvis GIF" width="100%" height="550px" />
 
  ---
-
 # Hey, This is Sadia Peerzada👋  <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif"/>
 
 <!-- 🔥 Profile Views Badge -->
