@@ -2,7 +2,6 @@
 
  ---
 # Hey, This is Sadia Peerzada👋  <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif"/>
-
 <!-- 🔥 Profile Views Badge -->
 :octocat:
 <p>
