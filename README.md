@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="sadiapeerzada" />
 </p>
 
-  **About-Me**
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About-Me**
 - Second-year B.Sc. Computer Science undergraduate who aspires to become a full-stack developer 
 - Passionate about coding, problem-solving, exploring new technologies and building software solutions
 - Focused on mastering computing fundamentals for academic research and internship opportunities
