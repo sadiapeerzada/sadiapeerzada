@@ -92,6 +92,16 @@ A snapshot of my work, projects, and experiments ranging from academic builds to
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+```txt
+TypeScript   1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   33.65 %
+Other        58 mins         ████████░░░░░░░░░░░░░░░░░   32.38 %
+Lua          50 mins         ███████░░░░░░░░░░░░░░░░░░   27.64 %
+JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+sh           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+```
+
+<!--END_SECTION:waka-->
+
 # ▶ Terminal Preview
 
 <img src="screencap.gif" alt="screencap.gif" width="100%" height="550px" />
