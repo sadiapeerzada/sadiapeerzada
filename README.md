@@ -2,7 +2,8 @@
 
  ---
 
-# Hey, This is Sadia Peerzada👋
+# Hey, This is Sadia Peerzada👋  <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif"/>
+
 <!-- 🔥 Profile Views Badge -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="sadiapeerzada" />
