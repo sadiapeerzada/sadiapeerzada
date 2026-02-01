@@ -122,6 +122,11 @@ sh           4 mins          ▓░░░░░░░░░░░░░░░░
 <!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div> -->
+# 👾 Space Shooter – Live Gameplay
+
+<p align="center">
+  <img src="sadiapeerzada-space-shooter (1).gif" alt="Space Shooter Gameplay" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
