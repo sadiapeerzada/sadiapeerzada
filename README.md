@@ -18,11 +18,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About-Me**
 
-I'm a second-year **B.Sc. Computer Science** undergraduate with a clear goal — becoming a **full-stack developer** who builds things that actually matter. I thrive at the intersection of clean code and creative problem-solving, whether that's implementing data structures in C, designing responsive interfaces, or experimenting with new frameworks just to see what's possible.
+I'm a second-year B.Sc. Computer Science undergraduate with a clear goal — becoming a full-stack developer who builds things that actually matter 👾. I enjoy that sweet spot where logic meets creativity, whether it's implementing data structures in C, crafting responsive UIs, or diving into new frameworks just to see how far I can push them .
 
-I'm currently sharpening my foundations in **Java**, **Computer Architecture**, **Statistics**, and **Mathematics** — not just for coursework, but because I genuinely believe strong fundamentals are what separate good developers from great ones. When I'm not in class or grinding through assignments, I'm working on side projects, contributing to open source, or picking up skills that keep me ahead of the curve.
+Right now, I’m strengthening my core in *Java*, *Computer Architecture*, *Discrete Mathematics*, *Statistics*, and *Mathematics* — not just to pass exams, but because I know solid fundamentals are what level you up for real 📚. Outside of classes, I’m either building side projects, contributing to open source, or exploring new tools that keep me evolving 💻🔥.
 
-**What drives me:** the challenge of making something work, the satisfaction when it finally does, and the curiosity to always ask *what if I tried it differently?*
+What drives me: the “this should work… why isn’t it working?” moments, the satisfaction when it finally clicks, and the constant urge to try things differently ⚡🛠️ 
 <br/>
 
 ## 🌐 social_links.init ( );
@@ -124,10 +124,7 @@ What you'll find there: featured projects with live demos · tech stack breakdow
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=sadiapeerzada&theme=tokyonight&hide_border=false" />
-    </td>
-  </tr>
+      </tr>
 </table>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
