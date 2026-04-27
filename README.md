@@ -30,7 +30,7 @@ What drives me: the “this should work… why isn’t it working?” moments, t
   <a href="https://www.linkedin.com/in/sadia-peerzada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>&nbsp;
   <a href="https://instagram.com/sadia.peerzada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>&nbsp;
   <a href="https://discord.gg/YOUR_DISCORD_CODE" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord"/></a>&nbsp;
-  <a href="mailto:sadiapeerzada2006@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sadiapeerzada2006@gmail.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" alt="Email"/>
 </a>
 </p>
