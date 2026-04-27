@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="Profile Views" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=aspiring+software+developer+%F0%9F%9A%80;always+building%2C+always+shipping+%F0%9F%94%A5;turning+coffee+into+code+%E2%98%95;breaking+things+to+make+them+better+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=aspiring+software+developer+%F0%9F%9A%80;always+building%2C+always+shipping+%F0%9F%94%A5;turning+coffee+into+code+%E2%98%95;breaking+things+to+make+them+better+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +30,9 @@ What drives me: the “this should work… why isn’t it working?” moments, t
   <a href="https://www.linkedin.com/in/sadia-peerzada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>&nbsp;
   <a href="https://instagram.com/sadia.peerzada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>&nbsp;
   <a href="https://discord.gg/YOUR_DISCORD_CODE" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord"/></a>&nbsp;
-  <a href="mailto:sadiapeerzada2006@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" alt="Email"/></a>
+  <a href="mailto:sadiapeerzada2006@gmail.com">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" alt="Email"/>
+</a>
 </p>
 <br/>
 
