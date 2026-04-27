@@ -10,7 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="Profile Views" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=aspiring+software+developer+%F0%9F%9A%80;always+building%2C+always+shipping+%F0%9F%94%A5;turning+coffee+into+code+%E2%98%95;breaking+things+to+make+them+better+%F0%9F%94%A7)](https://git.io/typing-svg)
+
 </div>
+
+<br/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About-Me**
 
@@ -20,6 +24,8 @@ I'm currently sharpening my foundations in **Java**, **Computer Architecture**, 
 
 **What drives me:** the challenge of making something work, the satisfaction when it finally does, and the curiosity to always ask *what if I tried it differently?*
 
+<br/>
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -27,6 +33,8 @@ I'm currently sharpening my foundations in **Java**, **Computer Architecture**, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadia-peerzada/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sadia.peerzada) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD_CODE) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadiapeerzada2006@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://east-relink-33604067.figma.site/)
 
 </div>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -46,13 +54,19 @@ I'm currently sharpening my foundations in **Java**, **Computer Architecture**, 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+<br/>
+
 ## 🗂️ Featured Repositories
 
-| Repository | Description |
-|---|---|
-| [☕ Java Programs](https://github.com/sadiapeerzada/java-programs) | Weekly lab assignments strengthening OOP concepts and problem-solving in Java |
-| [⚙️ C Programs](https://github.com/sadiapeerzada/C-programs) | Data Structures & Algorithms in C — Arrays, Queues, Stacks, and more |
-| [🗄️ DBMS Lab](https://github.com/sadiapeerzada/DBMS-Lab) | Database Management Systems lab work — SQL queries, schema design, and relational concepts |
+<div align="center">
+
+[![Java Programs](https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=java-programs&theme=tokyonight&hide_border=false)](https://github.com/sadiapeerzada/java-programs)
+[![C Programs](https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=C-programs&theme=tokyonight&hide_border=false)](https://github.com/sadiapeerzada/C-programs)
+[![DBMS Lab](https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=DBMS-Lab&theme=tokyonight&hide_border=false)](https://github.com/sadiapeerzada/DBMS-Lab)
+
+</div>
+
+<br/>
 
 ## 👾 Personal Portfolio
 
@@ -60,19 +74,40 @@ I'm currently sharpening my foundations in **Java**, **Computer Architecture**, 
 
 What you'll find there: featured projects with live demos · tech stack breakdowns · certifications & open-source contributions · resume & contact links
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=60&section=footer&reversal=true"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=sadiapeerzada&theme=tokyonight&hide_border=false)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sadiapeerzada&theme=tokyonight&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadiapeerzada&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+## 🔥 Check Out My Cool Holopin Badges!
+
+[![Holopin Badges](https://holopin.me/sadiapeerzada)](https://holopin.io/@sadiapeerzada)
+
+<br/>
 
 ## ✍️ Dev Quote of the Day
 
@@ -82,15 +117,19 @@ What you'll find there: featured projects with live demos · tech stack breakdow
 
 </div>
 
-## 🔥 Check Out My Cool Holopin Badges!
-
-[![Holopin Badges](https://holopin.me/sadiapeerzada)](https://holopin.io/@sadiapeerzada)
+<br/>
 
 ## ▶ Terminal Preview
 
 <img src="screencap.gif" alt="Terminal Preview" width="100%" height="550px" />
 
----
+## 🎮 Space Shooter Gameplay
+
+<div align="center">
+  <img src="sadiapeerzada-space-shooter (1).gif" alt="Space Shooter Gameplay" width="100%" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=60&section=footer"/>
 
 <div align="center">
 
