@@ -85,13 +85,23 @@ I'm currently sharpening my foundations in **Java**, **Computer Architecture**, 
 
 <br/>
 
-## 🗂️ Featured Repositories
+## 🗂️ Featured Repositories  
 
 <div align="center">
 
-[![Java Programs](https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=java-programs&theme=tokyonight&hide_border=false)](https://github.com/sadiapeerzada/java-programs)
-[![C Programs](https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=C-programs&theme=tokyonight&hide_border=false)](https://github.com/sadiapeerzada/C-programs)
-[![DBMS Lab](https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=DBMS-Lab&theme=tokyonight&hide_border=false)](https://github.com/sadiapeerzada/DBMS-Lab)
+<a href="https://github.com/sadiapeerzada/java-programs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=java-programs&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/sadiapeerzada/C-programs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=C-programs&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/sadiapeerzada/DBMS-Lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=DBMS-Lab&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 </div>
 
