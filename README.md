@@ -26,13 +26,12 @@ I'm currently sharpening my foundations in **Java**, **Computer Architecture**, 
 <br/>
 
 ## 🌐 social_links.init ( );
-
 <p align="left">
   <a href="https://www.linkedin.com/in/sadia-peerzada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>&nbsp;
   <a href="https://instagram.com/sadia.peerzada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>&nbsp;
   <a href="https://discord.gg/YOUR_DISCORD_CODE" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord"/></a>&nbsp;
+  <a href="mailto:sadiapeerzada2006@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" alt="Email"/></a>
 </p>
-
 <br/>
 
 ## 🛠️ tech stack (tools I survive on)
@@ -122,16 +121,6 @@ What you'll find there: featured projects with live demos · tech stack breakdow
 </table>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sadiapeerzada&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)
 
 </div>
 
