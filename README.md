@@ -1,4 +1,4 @@
-<img src="readme_robo.gif" alt="README Banner" width="100%" height="550px" />
+<img src="_.gif" alt="README Banner" width="100%" height="550px" />
 
 <div align="center">
 
