@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, This is Sadia Peerzada👋  <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif"/>
+# Hey, This is Sadia Peerzada👋  <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif?raw=true"/>
 
 :octocat:
 
@@ -18,21 +18,20 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About-Me**
 
-I'm a third-year B.Sc. Computer Science undergraduate with a clear goal — becoming a full-stack developer who builds things that actually matter 👾. I enjoy that sweet spot where logic meets creativity, whether it's implementing data structures in C, crafting responsive UIs, or diving into new frameworks just to see how far I can push them .
+I'm a third-year B.Sc. Computer Science undergraduate with a clear goal — becoming a full-stack developer who builds things that actually matter 👾. I enjoy that sweet spot where logic meets creativity, whether it's implementing data structures in C, crafting responsive UIs, or diving into new frameworks just to see how far I can push them.
 
-Right now, I’m strengthening my core in *Java*, *Computer Architecture*, *Discrete Mathematics*, *Statistics*, and *Mathematics* — not just to pass exams, but because I know solid fundamentals are what level you up for real 📚. Outside of classes, I’m either building side projects, contributing to open source, or exploring new tools that keep me evolving 💻🔥.
+Right now, I'm strengthening my core in *Java*, *Computer Architecture*, *Discrete Mathematics*, *Statistics*, and *Mathematics* — not just to pass exams, but because I know solid fundamentals are what level you up for real 📚. Outside of classes, I'm either building side projects, contributing to open source, or exploring new tools that keep me evolving 💻🔥.
 
-What drives me: the “this should work… why isn’t it working?” moments, the satisfaction when it finally clicks, and the constant urge to try things differently ⚡🛠️ 
+What drives me: the "this should work… why isn't it working?" moments, the satisfaction when it finally clicks, and the constant urge to try things differently ⚡🛠️
+
 <br/>
 
 ## 🌐 social_links.init ( );
 <p align="left">
   <a href="https://www.linkedin.com/in/sadia-peerzada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>&nbsp;
   <a href="https://instagram.com/sadia.peerzada" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>&nbsp;
-  <a href="https://discord.gg/YOUR_DISCORD_CODE" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord"/></a>&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sadiapeerzada2006@gmail.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" alt="Email"/>
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sadiapeerzada2006@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" alt="Email"/></a>&nbsp;
+  <a href="https://sadiapeerzada.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/40/domain.png" height="30" width="30" alt="Portfolio"/></a>
 </p>
 <br/>
 
@@ -87,7 +86,7 @@ What drives me: the “this should work… why isn’t it working?” moments, t
 
 <br/>
 
-## 🗂️ Featured Repositories  
+## 🗂️ Featured Repositories
 
 <div align="center">
 
@@ -105,13 +104,11 @@ What drives me: the “this should work… why isn’t it working?” moments, t
 
 </div>
 
-</div>
-
 <br/>
 
 ## 👾 Personal Portfolio
 
-**🔗 [Visit My Portfolio →](https://east-relink-33604067.figma.site/)**
+**🔗 [Visit My Portfolio →](https://sadiapeerzada.vercel.app/)**
 
 What you'll find there: featured projects with live demos · tech stack breakdowns · certifications & open-source contributions · resume & contact links
 
@@ -121,13 +118,7 @@ What you'll find there: featured projects with live demos · tech stack breakdow
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-      </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -169,7 +160,7 @@ What you'll find there: featured projects with live demos · tech stack breakdow
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=60&section=footer"/>
 
-<div align="center">
+<div align="center"> 
 
 ```txt
 TypeScript   1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   33.65 %
