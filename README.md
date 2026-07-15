@@ -18,11 +18,11 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **About-Me**
 
-I'm a third-year B.Sc. Computer Science undergraduate with a clear goal — becoming a full-stack developer who builds things that actually matter 👾. I enjoy that sweet spot where logic meets creativity, whether it's implementing data structures in C, crafting responsive UIs, or diving into new frameworks just to see how far I can push them.
-
-Right now, I'm strengthening my core in *Java*, *Computer Architecture*, *Discrete Mathematics*, *Statistics*, and *Mathematics* — not just to pass exams, but because I know solid fundamentals are what level you up for real 📚. Outside of classes, I'm either building side projects, contributing to open source, or exploring new tools that keep me evolving 💻🔥.
-
-What drives me: the "this should work… why isn't it working?" moments, the satisfaction when it finally clicks, and the constant urge to try things differently ⚡🛠️
+I'm a third-year B.Sc. Computer Science undergraduate with a clear goal — becoming a full-stack developer who builds things that actually matter. I enjoy that sweet spot where logic meets creativity, whether it's implementing data structures in C, crafting responsive UIs, or diving into new frameworks just to see how far I can push them.
+ 
+Right now, I'm strengthening my core in *Java*, *Computer Architecture*, *Discrete Mathematics*, *Statistics*, and *Mathematics* — not just to pass exams, but because I know solid fundamentals are what level you up for real. Outside of classes, I'm either building side projects, contributing to open source, or exploring new tools that keep me evolving.
+ 
+What drives me: the "this should work… why isn't it working?" moments, the satisfaction when it finally clicks, and the constant urge to try things differently.
 
 <br/>
 
