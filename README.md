@@ -10,6 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="assets/cs-amu.svg" alt="CS @ Aligarh Muslim University" width="520">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=aspiring+software+developer+%F0%9F%9A%80;always+building%2C+always+shipping+%F0%9F%94%A5;turning+coffee+into+code+%E2%98%95;breaking+things+to+make+them+better+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
