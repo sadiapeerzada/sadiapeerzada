@@ -10,9 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=sadiapeerzada&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="assets/cs-amu.svg" alt="CS @ Aligarh Muslim University" width="520">
-</p>
+[![AMU](https://img.shields.io/badge/CS_@_Aligarh_Muslim_University-003660?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2IDktNS0xVjE3aDJWOS4yN0wyMyA5bC0xMS02ek01IDE1LjE4VjE4bDcgMy44OSA3LTMuODl2LTIuODJsLTcgMy44OS03LTMuODl6Ii8+PC9zdmc+&logoColor=white)](https://www.amu.ac.in/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=aspiring+software+developer+%F0%9F%9A%80;always+building%2C+always+shipping+%F0%9F%94%A5;turning+coffee+into+code+%E2%98%95;breaking+things+to+make+them+better+%F0%9F%94%A7)](https://git.io/typing-svg)
 
