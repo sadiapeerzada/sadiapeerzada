@@ -1,0 +1,16 @@
+<svg width="520" height="68" viewBox="0 0 520 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="68" rx="0" fill="#123D6B"/>
+
+  <!-- White Diamond -->
+  <path d="M24 34L38 24L52 34L38 44L24 34Z" fill="white"/>
+
+  <!-- Text -->
+  <text x="78" y="43"
+        font-family="Inter, Arial, Helvetica, sans-serif"
+        font-size="20"
+        font-weight="700"
+        letter-spacing="2"
+        fill="white">
+    CS @ ALIGARH MUSLIM UNIVERSITY
+  </text>
+</svg>
