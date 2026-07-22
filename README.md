@@ -90,21 +90,17 @@ What drives me: the "this should work… why isn't it working?" moments, the sat
 
 ## 🗂️ Featured Repositories
 
-<div align="center">
+- **[NLP-to-Formal-Language-Proof](https://github.com/sadiapeerzada/NLP-to-Formal-Language-Proof)** – Neural-symbolic system that translates natural language mathematical statements into formal logic, enabling automated theorem proving and machine-verifiable proofs through NLP and symbolic reasoning.
 
-<a href="https://github.com/sadiapeerzada/java-programs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=java-programs&theme=tokyonight&hide_border=true" />
-</a>
+- **[AlphaGo-Zero](https://github.com/sadiapeerzada/AlphaGo-Zero)** – Reimplementation of the AlphaGo Zero framework using deep reinforcement learning, self-play, Monte Carlo Tree Search (MCTS), and policy-value neural networks to learn strategic gameplay from scratch.
 
-<a href="https://github.com/sadiapeerzada/C-programs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=C-programs&theme=tokyonight&hide_border=true" />
-</a>
+- **[GW-Detector](https://github.com/sadiapeerzada/GW-Detector)** – Machine learning pipeline for gravitational wave detection, leveraging signal preprocessing, feature extraction, and deep learning techniques to identify astrophysical events within noisy detector data.
 
-<a href="https://github.com/sadiapeerzada/DBMS-Lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadiapeerzada&repo=DBMS-Lab&theme=tokyonight&hide_border=true" />
-</a>
+- **[PPO-Schulman](https://github.com/sadiapeerzada/PPO-Schulman)** – Implementation of Proximal Policy Optimization (PPO) following Schulman et al., featuring clipped policy objectives, actor-critic learning, and stable policy updates for reinforcement learning environments.
 
-</div>
+- **[pir-os](https://github.com/sadiapeerzada/pir-os)** – Hobby operating system built from scratch in C and x86 Assembly, exploring bootloaders, kernel development, memory management, interrupt handling, and low-level systems programming.
+
+- **[talos-red-team](https://github.com/sadiapeerzada/talos-red-team)** – AI-assisted cybersecurity platform for offensive security workflows, integrating automated reconnaissance, vulnerability assessment, reporting, and modern web technologies into a unified red-team toolkit.
 
 <br/>
 
