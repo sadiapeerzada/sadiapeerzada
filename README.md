@@ -116,17 +116,11 @@ What you'll find there: featured projects with live demos · tech stack breakdow
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=sadiapeerzada&show_icons=true&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=ffffff&icon_color=bf91f3&border_color=70a5fd" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiapeerzada&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadiapeerzada&layout=compact&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=ffffff&border_color=70a5fd" />
 
 </div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadiapeerzada&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
